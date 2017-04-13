@@ -3,43 +3,35 @@
     // multiply, divide, subtract, add, power, square_root, logBase10, generateRandomNumber
 
 
-function divide(x,y)
-{
+function divide(x,y) {
 	//Write your code below this line
-	
+
 }
 
-function multiply(x,y)
-{
-	
+function multiply(x,y) {
+
 }
 
-function subtract(x,y)
-{
-	
+function subtract(x,y) {
+
 }
 
-function add(x,y)
-{
-	
+function add(x,y) {
+
 }
 
-function power(x,y)
-{
-	
+function power(x,y) {
+
 }
 
-function square_root(x)
-{
-	
+function square_root(x) {
+
 }
 
-function logBase10(x)
-{
-	
+function logBase10(x) {
+
 }
 
-function generateRandomNumber()
-{
-	
+function generateRandomNumber() {
+
 }
